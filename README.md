@@ -468,6 +468,6 @@ This assignment provided hands-on practice with Linux user and group administrat
 
 # Author
 
-**Yogesh Indoria**
+**Jeetender Singh**
 
 Linux / DevOps Assignment 2
